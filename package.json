@@ -1,6 +1,6 @@
 {
   "name": "hello-react",
-  "homepage": "https://sobadrush.github.io/github-actions-demo",
+  "homepage": "https://sobadrush.github.io/hello-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
